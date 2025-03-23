@@ -98,3 +98,7 @@ Model trained using pycrfsuite.Trainer.
 Uses extracted features and aligned labels.
 
 Saved as: hindi_ner_phrase_based.crfsuite
+
+---
+Reference :
+S.-H. Na and Y.-K. Kim, “Phrase-Based Statistical Model for Korean Morpheme Segmentation and POS Tagging,” Journal of KIISE: Software and Applications, vol. 36, no. 5, pp. 325–332, 2009.
