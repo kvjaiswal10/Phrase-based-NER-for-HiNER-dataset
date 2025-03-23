@@ -57,7 +57,7 @@ Tag probability (square root scaling)
 
 ## Phrase segmentation
 
-Greedily selects top-scoring, non-overlapping phrases from the scored list.
+Select top-scoring phrases using Beam Search, non-overlapping phrases from the scored list.
 
 <code>Scored Phrases:
   ('ताजमहल भारत', 0, 2) → score: 3.2
