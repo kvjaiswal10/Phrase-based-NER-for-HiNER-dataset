@@ -51,9 +51,9 @@ OUTPUT:
 
 Each phrase is scored based on:
 
-Phrase length
-Morphological weight (logarithmic scale)
-Tag probability (square root scaling)
+- Phrase length
+- Morphological weight (logarithmic scale)
+- Tag probability (square root scaling)
 
 ## Phrase segmentation
 
