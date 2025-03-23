@@ -36,7 +36,7 @@ The dataset format:
 ## Phrase Generation
 
 <code>tokens = ["ताजमहल", "भारत", "में"]
-phrases = generate_phrases(tokens)</code>
+phrases = generate_phrases(tokens)</code><br></br>
 OUTPUT:
 <code>[
   ('ताजमहल', 0, 1),
